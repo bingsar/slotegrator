@@ -38,7 +38,6 @@ if (!empty($_POST['moneyExchange'])) {
     </style>
 </head>
 <body>
-
     <div class="container">
             <div class="row">    
                 <div class="col">
