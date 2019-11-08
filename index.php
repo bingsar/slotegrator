@@ -46,7 +46,6 @@ if (!empty($_POST['newEmail'])) {
     </style>
 </head>
 <body>
-   
 <div class="container">
 
     <ul class="nav nav-tabs" id="myTab" role="tablist">
