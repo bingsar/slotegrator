@@ -23,7 +23,6 @@ function authorization($email, $password)
         } else {
             return false;
         }
-
     }
 }
 
